@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[screenshots]]></title>
         <description><![CDATA[screenshots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/screenshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 10:09:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 10:12:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/screenshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title of a Screenshot]]></title>
+            <description><![CDATA[<article><h1>Title of a Screenshot</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3ea4506-9beb-4fb1-b2b1-94477f96bea0.png"></article>]]></description>
+            <link>https://thegrid.ai/screenshots/title-of-a-screenshot/index.html</link>
+            <guid isPermaLink="false">94630979-f492-4efe-8b75-c6c80317ecc7</guid>
+            <pubDate>Tue, 22 Dec 2015 10:11:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lantau Island ]]></title>
             <description><![CDATA[<article><h1>Lantau Island </h1><p>Don't know where my text went.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8cb6a4a13e509eb10b72c26a5dd330c7df2f5fa.jpg"></article>]]></description>
-            <link>undefinedlantau-island/index.html</link>
+            <link>https://thegrid.ai/screenshots/lantau-island/index.html</link>
             <guid isPermaLink="false">d9dc9e7a-3e45-4e85-89e1-447ebae136b7</guid>
             <pubDate>Tue, 22 Dec 2015 10:08:28 GMT</pubDate>
         </item>
