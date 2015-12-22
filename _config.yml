@@ -1,6 +1,6 @@
 name: screenshots
 favicon: null
-layout_spectrum: 0.627241492504254
+layout_spectrum: 0.24374
 typography_spectrum: 0.4674670584499836
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b4b4b4'
     - '#969696'
   brandStrength: 1
-  lightness: 0.597369478084147
-  saturation: 0.9380953991785645
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.9781871754676104
 purpose: []
