@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[screenshots]]></title>
+        <description><![CDATA[screenshots]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 10:09:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lantau Island ]]></title>
+            <description><![CDATA[<article><h1>Lantau Island </h1><p>Don't know where my text went.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8cb6a4a13e509eb10b72c26a5dd330c7df2f5fa.jpg"></article>]]></description>
+            <link>undefinedlantau-island/index.html</link>
+            <guid isPermaLink="false">d9dc9e7a-3e45-4e85-89e1-447ebae136b7</guid>
+            <pubDate>Tue, 22 Dec 2015 10:08:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
